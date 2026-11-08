@@ -2,6 +2,10 @@
 
 > 面向 **本地样本逆向学习**。目标为 PyInstaller 打包的 Python 3.11 程序，本文记录其授权链结构，并给出把 `License.status()` 改为恒真、跳过 Ed25519 验签的完整思路与可复现脚本。
 
+## ⬇️ 下载
+
+**[点击下载破解版 exe](https://github.com/yatazz/haidou-pc-crack/releases/latest)** → 打开 Releases 页，下载 `HaidouPC_v0.3.31_cracked.exe`，放到程序目录（与 `_internal/` 同级）双击运行，无需激活。
+
 ---
 
 ## 1. 样本概况
